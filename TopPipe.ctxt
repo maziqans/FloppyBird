@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TopPipe
+comment0.text=\r\n\ The\ top\ part\ of\ the\ "pipe"\r\n\ \r\n\ WAN\ AFIF\ NAJMUDDIN\ BIN\ MOHD\ SYUKRI\ 2115737\r\n\ \r\n
+comment1.params=location
+comment1.target=TopPipe(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

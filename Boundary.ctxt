@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Boundary
+comment0.text=\r\n\ This\ is\ a\ line\ between\ two\ pipes\ that\ is\ not\ visible.\ When\ a\ bird\ lands\ on\ it,\ it\ understands\ that\ it\ is\ signaling\ the\ world\ to\ add\ a\ point.\r\n\ \r\n\ @author\ Nureen\ Batrisyia\ Balqis\ Binti\ Karimudin\ 2112830\r\n\ \r\n
+comment1.params=location
+comment1.target=Boundary(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

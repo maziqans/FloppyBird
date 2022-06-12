@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Logo
+comment0.text=\r\n\ Logo\ that\ will\ appear\ when\ launching\ the\ game\r\n\ AKMAL\ NAZIM\ BIN\ MOHD\ NAUFAL\ 2117515\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Button\ 'Act'\ will\ display\ the\ logo.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ clicked.\r\n
+numComments=2
